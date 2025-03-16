@@ -75,6 +75,9 @@ npm install
 # または
 yarn install
 
+#
+npm install next react react-dom
+
 # .env.localファイルの作成
 # 以下の内容を.env.localファイルに追加
 # NEXT_PUBLIC_API_URL=http://localhost:8000
